@@ -62,7 +62,7 @@ button {
 
 .clear {
     background-color: #ff0000;
-
+     max-width: 50px;
 }
 
 button:hover {
